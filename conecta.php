@@ -1,3 +1,3 @@
 <?php 
 
-$conexao = mysqli_connect('localhost', 'root', 'xxxxxxxx', 'agendapoo');
+$conexao = mysqli_connect('localhost', 'root', '', 'agendapoo');
