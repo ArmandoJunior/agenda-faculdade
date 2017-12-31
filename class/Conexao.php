@@ -4,7 +4,7 @@ class Conexao
 {
     public static function pegarConexao()
     {
-        $conexao = new PDO('mysql:host=localhost;dbname=agendapoo','root','jr120777');
+        $conexao = new PDO('mysql:host=localhost;dbname=agendapoo','root','xxxxxxxx');
         return $conexao;
         
     }
